@@ -1,2 +1,14 @@
-# cloud-security-compliance-scanner
-AWS-based cloud security scanner for automated compliance checks, security monitoring, threat detection, and reporting using Lambda, IAM, S3, CloudWatch, SNS, Security Hub, and Terraform.
+# Cloud Security Compliance Scanner
+
+An AWS-based cloud security and compliance monitoring solution designed to detect misconfigured cloud resources, automate security auditing, generate compliance reports, and send security alerts.
+
+## Technologies
+
+- AWS Lambda
+- Amazon S3
+- AWS IAM
+- Amazon SNS
+- Amazon CloudWatch
+- AWS Security Hub
+- Terraform
+
